@@ -22,3 +22,5 @@
 Þessar skipanir eru notaðar til að stjórna útgáfum, skoða fyrri breytingar og vinna í mismunandi greinum án þess að hafa áhrif á aðra útgáfu.
 
 ---
+
+Hér get ég sagt mína skoðun á Git umsjónarkerfinu… Mér finnst Git vera öflugt kerfi fyrir útgáfustýringu, sérstaklega með greinum (branches) og auðveldri samvinnu í gegnum GitHub.
