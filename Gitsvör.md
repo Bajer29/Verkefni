@@ -31,3 +31,13 @@
 
 ---
 
+## 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+Það ætti að gera commit í hvert skipti sem búið er að ljúka ákveðnu skrefi eða virkni. Frekar oftar en sjaldnar, svo hægt sé að fylgjast betur með breytingum.
+
+---
+
+## 7. Hvað er átt við með “Working Directory” og “Staging Area” í GIT?
+- **Working Directory** – Skrárnar eins og þær eru á tölvunni þinni.  
+- **Staging Area** – Svæði þar sem skrár eru undirbúnar áður en þær eru vistaðar með commit.  
+
+---
