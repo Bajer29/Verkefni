@@ -41,3 +41,5 @@
 - **Staging Area** – Svæði þar sem skrár eru undirbúnar áður en þær eru vistaðar með commit.  
 
 ---
+
+Hér get ég sagt mína skoðun á Git umsjónarkerfinu… Mér finnst Git vera öflugt kerfi fyrir útgáfustýringu, sérstaklega með greinum (branches) og auðveldri samvinnu í gegnum GitHub.
