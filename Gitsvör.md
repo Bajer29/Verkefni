@@ -22,3 +22,12 @@
 Þessar skipanir eru notaðar til að stjórna útgáfum, skoða fyrri breytingar og vinna í mismunandi greinum án þess að hafa áhrif á aðra útgáfu.
 
 ---
+
+## 5. Hverjir eru helstu kostir við að nota GIT?
+- Hægt að sjá allar breytingar yfir tíma.  
+- Samvinna margra notenda án þess að skráðar breytingar rekist á.  
+- Hægt að snúa aftur í fyrri útgáfu ef mistök eru gerð.  
+- Geymir breytingar án nettengingar og samstillir síðar.  
+
+---
+
