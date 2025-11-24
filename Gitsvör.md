@@ -14,3 +14,11 @@
 - **git diff** – Ber saman breytingar í skrám áður en þær eru vistaðar (committed).
 
 ---
+
+## 3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
+- **git log** – Sýnir sögu (log) yfir commit.  
+- **git checkout** – Leyfir þér að fara á ákveðið commit eða grein (branch).  
+- **git branch** – Sýnir allar greinar eða býr til nýja grein.  
+Þessar skipanir eru notaðar til að stjórna útgáfum, skoða fyrri breytingar og vinna í mismunandi greinum án þess að hafa áhrif á aðra útgáfu.
+
+---
